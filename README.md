@@ -30,7 +30,7 @@ Excel: For report generation and sharing results with stakeholders.
 
 ## Data
 
-The analysis uses open-source data sets from Instacart, available through Kaggle, and a custom customer dataset. The data includes various aspects such as order history, product details, customer demographics, and purchasing behaviors.
+The analysis uses open-source data sets from Instacart, available through Kaggle, and a custom customer dataset. The data includes various aspects such as order history, product details, customer demographics, and department.
 
 ## Key Data Sets:
 
@@ -50,10 +50,16 @@ Deriving new variables for deeper insights (e.g., customer loyalty flags).
 Grouping and aggregating data for summary statistics.
 Ethical handling of data, particularly with regard to customer information.
 
-## Deliverables
+## Folders
 
-Exploratory Analysis: Detailed analysis of order behaviors, customer segmentation, product popularity, and sales trends.
+The project files are divided between the following folders:
 
-Visualizations: At least four types of visualizations (e.g., bar charts, scatter plots, histograms) to present key insights.
+Project Management: Project Brief and Data Dictionary.
 
-Final Report: A comprehensive report summarizing the analysis, methodology, insights, and recommendations for marketing and sales strategies.
+Scripts: The Jupyter notebooks containing the coding for the analysis.
+
+Analysis: The Visualizations folder contains the visualizations used for developing and explaining insights.
+
+Sent to Client: The final report presented in Excel.
+
+
